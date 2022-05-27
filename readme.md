@@ -1,3 +1,3 @@
 # Hola Mundo
 
-Este es un readme para mi primer proyecto!
+Mi primer readme enviado desde la terminal!
